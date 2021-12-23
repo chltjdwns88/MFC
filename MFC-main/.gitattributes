@@ -1,0 +1,2 @@
+.vs/2020-1_MFCPaint/v16/ipch/AutoPCH filter=lfs diff=lfs merge=lfs -text
+*.ipch filter=lfs diff=lfs merge=lfs -text
